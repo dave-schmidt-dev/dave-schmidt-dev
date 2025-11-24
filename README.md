@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  Leveraging 9+ years of enterprise network infrastructure experience (USMC, Infoblox) to build resilient cloud-native and serverless applications. Currently focused on translating physical networking discipline into AWS and Next.js architectures.
+  Leveraging 9+ years of enterprise network infrastructure experience to build resilient cloud-native tools. Focused on translating physical networking discipline into modern Python and AWS automation.
 </p>
 
 <br />
@@ -20,7 +20,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-STUDENT-00FFFF?style=for-the-badge&labelColor=141419" alt="Status: Student" />
   <img src="https://img.shields.io/badge/FOCUS-AWS_%2F_PYTHON-00FFFF?style=for-the-badge&labelColor=141419" alt="Focus: AWS / Python" />
-  <img src="https://img.shields.io/badge/CLEARANCE-INACTIVE-00FFFF?style=for-the-badge&labelColor=141419" alt="Clearance: Inactive" />
 </div>
 
 <br />
@@ -30,7 +29,7 @@
 | Repository | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **[./pdf-chunker](https://github.com/dave-schmidt-dev/pdf-chunker)** | `AWS Lambda` `Python` `S3` | **Serverless Context Processor.** A cost-optimized pipeline for extracting and chunking text from PDFs for LLM workflows. Handles Base64 encoding and security constraints. |
-| **[./family-meal-master](https://github.com/dave-schmidt-dev/family-meal-master)** | `Next.js` `React` `Gemini` | **Household Operations Platform.** Full-stack application for managing family resources and routines. Built using AI-assisted "Deep Research" workflows. |
+| **[./nvcc-scraper](https://github.com/dave-schmidt-dev/nvcc-scraper)** | `Python` `BeautifulSoup` | **Course Availability Monitor.** Automation tool to scrape and monitor NVCC course catalogs, alerting on class availability updates. |
 
 <br />
 
@@ -45,22 +44,12 @@
 
 <br />
 
-### Professional Background
-
-**Infoblox (2013-2015)**
-*Professional Services Engineer.* Specializing in Enterprise DDI (DNS, DHCP, IPAM) migration and NetMRI network automation for government and education sectors.
-
-**United States Marine Corps (2004-2013)**
-*Special Intelligence Communicator.* 9 years of high-consequence infrastructure operations, classified network support, and technical troubleshooting.
-
-<br />
-
 ---
 <div align="center">
   <a href="https://www.linkedin.com/in/dave-schmidt-dev">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://zerodave.dev">
-    <img src="https://img.shields.io/badge/Portfolio-zerodave.dev-141419?style=for-the-badge&labelColor=00FFFF&color=141419" alt="Website" />
+    <img src="https://img.shields.io/badge/Full_Resume-zerodave.dev-141419?style=for-the-badge&labelColor=00FFFF&color=141419" alt="Website" />
   </a>
 </div>
