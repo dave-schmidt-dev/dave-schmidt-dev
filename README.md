@@ -29,7 +29,7 @@
 | Repository | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **[./pdf-chunker](https://github.com/dave-schmidt-dev/pdf-chunker)** | `AWS Lambda` `Python` `S3` | **Serverless Context Processor.** A cost-optimized pipeline for extracting and chunking text from PDFs for LLM workflows. Handles Base64 encoding and security constraints. |
-| **[./nvcc-scraper](https://github.com/dave-schmidt-dev/nvcc-scraper)** | `Python` `BeautifulSoup` | **Course Availability Monitor.** Automation tool to scrape and monitor NVCC course catalogs, alerting on class availability updates. |
+| **[./web-scraper](https://github.com/dave-schmidt-dev/web-scraper)** | `Python` `BeautifulSoup` | **Course Availability Monitor.** Automation tool to scrape and monitor NVCC course catalogs, alerting on class availability updates. |
 
 <br />
 
