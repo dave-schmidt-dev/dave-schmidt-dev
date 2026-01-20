@@ -5,7 +5,7 @@
 <br />
 
 <h1 align="center">David Schmidt</h1>
-<h3 align="center">Principal Cloud Architect | Founder, Zero Delta LLC</h3>
+<h3 align="center">Cloud Engineer | Owner, Zero Delta LLC</h3>
 
 <p align="center">
   <code>[ <a href="https://zerodelta.dev">zerodelta.dev</a> ]</code> &nbsp; 
@@ -14,18 +14,9 @@
 
 <br />
 
-<div align="center">
-  <!-- Status Indicators using Design System Colors: Black #141419, Cyan #00FFFF -->
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FFFF?style=for-the-badge&labelColor=141419&color=00FFFF" alt="Status: Operational" />
-  <img src="https://img.shields.io/badge/REGION-US_EAST_1-00FFFF?style=for-the-badge&labelColor=141419&color=00FFFF" alt="Region: US-EAST-1" />
-  <img src="https://img.shields.io/badge/UPTIME-99.99%25-00FFFF?style=for-the-badge&labelColor=141419&color=00FFFF" alt="Uptime: 99.99%" />
-</div>
-
-<br />
-
 ## `>_ whoami`
 
-> **Principal Cloud Architect** specializing in serverless ecosystems, event-driven architectures, and automated infrastructure. I engineer high-performance systems that prioritize scalability and resilience.
+> **Cloud Engineer** specializing in serverless ecosystems, event-driven architectures, and automated infrastructure. I build systems that prioritize scalability and resilience.
 
 <br />
 
