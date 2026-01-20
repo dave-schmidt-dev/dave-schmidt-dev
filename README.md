@@ -20,22 +20,7 @@
 
 <br />
 
-## `>_ deployed_modules`
 
-| Repository | System Role | Functionality |
-| :--- | :--- | :--- |
-| **[./pdf-chunker](https://github.com/dave-schmidt-dev/pdf-chunker)** | **Serverless Context Processor** | High-throughput processing pipeline (AWS Lambda/Python) for intelligent document parsing and vectorization. |
-| **[./web-scraper](https://github.com/dave-schmidt-dev/web-scraper)** | **Infrastructure Availability Monitor** | Automated detection system for resource provisioning states and real-time availability alerting. |
-
-<br />
-
-## `>_ toolchain`
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <br />
 
