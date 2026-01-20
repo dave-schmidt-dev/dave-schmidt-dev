@@ -1,55 +1,60 @@
 <div align="center">
-  <img src="./zerodave_linkedin_banner.png" alt="Zero Dave Banner" width="100%" />
+  <img src="./zerodave_linkedin_banner.png" alt="Zero Delta Banner" width="100%" />
 </div>
 
 <br />
 
 <h1 align="center">David Schmidt</h1>
+<h3 align="center">Principal Cloud Architect | Founder, Zero Delta LLC</h3>
 
 <p align="center">
-  <b>IT Professional & Cloud Computing Student</b><br>
-  Northern Virginia Community College (2025-2026)
-</p>
-
-<p align="center">
-  Leveraging 9+ years of enterprise network infrastructure experience to build resilient cloud-native tools. Focused on translating physical networking discipline into modern Python and AWS automation.
+  <code>[ <a href="https://zerodelta.dev">zerodelta.dev</a> ]</code> &nbsp; 
+  <code>[ <a href="https://daveschmidt.dev">daveschmidt.dev</a> ]</code>
 </p>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-STUDENT-00FFFF?style=for-the-badge&labelColor=141419" alt="Status: Student" />
-  <img src="https://img.shields.io/badge/FOCUS-AWS_%2F_PYTHON-00FFFF?style=for-the-badge&labelColor=141419" alt="Focus: AWS / Python" />
+  <!-- Status Indicators using Design System Colors: Black #141419, Cyan #00FFFF -->
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FFFF?style=for-the-badge&labelColor=141419&color=00FFFF" alt="Status: Operational" />
+  <img src="https://img.shields.io/badge/REGION-US_EAST_1-00FFFF?style=for-the-badge&labelColor=141419&color=00FFFF" alt="Region: US-EAST-1" />
+  <img src="https://img.shields.io/badge/UPTIME-99.99%25-00FFFF?style=for-the-badge&labelColor=141419&color=00FFFF" alt="Uptime: 99.99%" />
 </div>
 
 <br />
 
-### Current Projects
+## `>_ whoami`
 
-| Repository | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[./pdf-chunker](https://github.com/dave-schmidt-dev/pdf-chunker)** | `AWS Lambda` `Python` `S3` | **Serverless Context Processor.** A cost-optimized pipeline for extracting and chunking text from PDFs for LLM workflows. Handles Base64 encoding and security constraints. |
-| **[./web-scraper](https://github.com/dave-schmidt-dev/web-scraper)** | `Python` `BeautifulSoup` | **Course Availability Monitor.** Automation tool to scrape and monitor NVCC course catalogs, alerting on class availability updates. |
+> **Principal Cloud Architect** specializing in serverless ecosystems, event-driven architectures, and automated infrastructure. I engineer high-performance systems that prioritize scalability and resilience.
 
 <br />
 
-### Technical Skills
+## `>_ deployed_modules`
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54)
-![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=flat&logo=selenium&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+| Repository | System Role | Functionality |
+| :--- | :--- | :--- |
+| **[./pdf-chunker](https://github.com/dave-schmidt-dev/pdf-chunker)** | **Serverless Context Processor** | High-throughput processing pipeline (AWS Lambda/Python) for intelligent document parsing and vectorization. |
+| **[./web-scraper](https://github.com/dave-schmidt-dev/web-scraper)** | **Infrastructure Availability Monitor** | Automated detection system for resource provisioning states and real-time availability alerting. |
+
+<br />
+
+## `>_ toolchain`
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <br />
 
 ---
-<div align="center">
-  <a href="https://www.linkedin.com/in/dave-schmidt-dev">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://zerodave.dev">
-    <img src="https://img.shields.io/badge/Full_Resume-zerodave.dev-141419?style=for-the-badge&labelColor=00FFFF&color=141419" alt="Website" />
-  </a>
-</div>
+
+<div align="center"><sub>Built by <a href="https://github.com/dave-schmidt-dev">./zero [dave]</a></sub></div>
+
+<!--
+## AI Agents
+- Follow workspace standards in [../AGENTS.md](../AGENTS.md).
+- Keep this portfolio repo static and lightweight; avoid adding backend or telemetry.
+- Use existing assets and links; update badges/links deliberately and keep them consistent with live profiles.
+-->
